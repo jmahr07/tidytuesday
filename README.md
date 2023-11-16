@@ -1,5 +1,5 @@
 # Tidy Tuesday
-An occasional [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) thing.
+A *very* occasional [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) thing.
 
 ***
 
